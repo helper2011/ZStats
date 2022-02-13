@@ -1,0 +1,318 @@
+"Phrases"
+{
+	"Tag"
+	{
+		"ru"		"[Статистика]"
+		"en"		"[Stats]"
+	}
+	"Common"
+	{
+		"ru"		"Общий"
+		"en"		"Common"
+	
+	}
+	"Change top"
+	{
+		"ru"		"Сменить"
+		"en"		"Change"
+	}
+	"Top Players menu title"
+	{
+		"#format"	"{1:i},{2:t}"
+		"ru"		"Топ-{1} Игроков [{2}]"
+		"en"		"Top-{1} Players [{2}]"
+	}
+	"Top Clans menu title"
+	{
+		"#format"	"{1:i},{2:t}"
+		"ru"		"Топ-{1} Кланов [{2}]"
+		"en"		"Top-{1} Clans [{2}]"
+	}
+	"Top Countries menu title"
+	{
+		"#format"	"{1:i},{2:t}"
+		"ru"		"Топ-{1} Стран [{2}]"
+		"en"		"Top-{1} Countries [{2}]"
+	}
+
+	"ZStats with clan menu title"
+	{
+		"#format"	"{1:s},{2:N},{3:i}"
+		"ru"		"{1} {2} [Поинты: {3}]"
+		"en"		"{1} {2} [Points: {3}]"
+	}
+	"ZStats menu title"
+	{
+		"#format"	"{1:N},{2:i}"
+		"ru"		"{1} [Поинты: {2}]"
+		"en"		"{1} [Points: {2}]"
+	}
+
+	"Stats"
+	{
+		"ru"		"Статистика"
+		"en"		"Stats"
+	}
+	"Map list"
+	{
+		"ru"		"Список карт"
+		"en"		"Map list"
+	
+	}
+	"Map list menu title"
+	{
+		"ru"		"Список карт"
+		"en"		"Map list"
+	}
+	"Players"
+	{
+		"ru"		"Игроки"
+		"en"		"Players"
+	}
+	"Clans"
+	{
+		"ru"		"Кланы"
+		"en"		"Clans"
+	}
+	"Countries"
+	{
+		"ru"		"Страны"
+		"en"		"Countries"
+	}
+	"Players list menu title"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Список игроков [Всего: {1}]"
+		"en"		"Players list [Total: {1}]"
+	}
+	"Clans list menu title"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Список кланов [Всего: {1}]"
+		"en"		"Clans list [Total: {1}]"
+	}
+	
+	"Countries list menu title"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Список стран [Всего: {1}]"
+		"en"		"Countries list [Total: {1}]"
+	}
+	"Clan is unavailbale"
+	{
+		"ru"		"Клан недоступен"
+		"en"		"Clan is unavailbale"
+	}
+	"Clan info menu title"
+	{
+		"#format"	"{1:s},{2:i},{3:i}"
+		"ru"		"{1} [Поинты: {2}, Игроков: {3}]"
+		"en"		"{1} [Points: {2}, Players: {3}]"
+	
+	}
+	"Country is unavailbale"
+	{
+		"ru"		"Страна недоступна"
+		"en"		"Country is unavailbale"
+	}
+	"Country info menu title"
+	{
+		"#format"	"{1:s},{2:i},{3:i}"
+		"ru"		"{1} [Поинты: {2}, Игроков: {3}]"
+		"en"		"{1} [Points: {2}, Players: {3}]"
+	
+	}
+
+	"No players availbale"
+	{
+		"ru"		"Нет доступных игроков"
+		"en"		"No players availbale"
+	}
+	"Client is unavailbale"
+	{
+		"ru"		"Данный игрок недоступен"
+		"en"		"Now client is unavailbale"
+	}
+
+	"Top Players"
+	{
+		"ru"		"Топ-Игроков"
+		"en"		"Top-Players"
+	}
+	"Top Clans"
+	{
+		"ru"		"Топ-Кланов"
+		"en"		"Top-Clans"
+	}
+	"Top Countries"
+	{
+		"ru"		"Топ-Стран"
+		"en"		"Top-Countries"
+	}
+
+
+	"Give client points"
+	{
+		"#format"	"{1:N},{2:i},{3:i},{4:t}"
+		"ru"		"{1} получил {C2}{2}{C1} поинт ({3}) [{C2}{4}{C1}]"
+		"en"		"{1} got {C2}{2}{C1} points for {C2}{4}{C1}. ({3})"
+	}
+	"beat"
+	{
+		"ru"		"Полное прохождение карты"
+		"en"		"Completed map"
+	}
+	"damage"
+	{
+		"ru"		"Нанесение урона по Зомби"
+		"en"		"Damaging the Zombies"
+	}
+	"damage 3"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Урон: {1}"
+		"en"		"Damage: {1}"
+	}
+
+	"itemsuse"
+	{
+		"ru"		"Использование материи"
+		"en"		"Use of Items"
+	}
+
+	"kills"
+	{
+		"ru"		"Убийство Зомби"
+		"en"		"Killing the Zombie"
+	}
+	"kills 3"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Убийства: {1}"
+		"en"		"Kills: {1}"
+	}
+
+	"infections"
+	{
+		"ru"		"Заражение выжившего"
+		"en"		"Infecting the Human"
+	}
+	"infections 3"
+	{
+		"#format"	"{1:i}"
+		"ru"	"Заражения: {1}"
+		"en"	"Infections: {1}"
+	}
+
+	"playtime"
+	{
+		"ru"		"Игра на сервере"
+		"en"		"Playing on server"
+	}
+	"triggers"
+	{
+		"ru"		"Активация триггера"
+		"en"		"Getting a Trigger"
+	}
+	
+	"Rank"
+	{
+		"#format"	"{1:N},{2:i},{3:i},{4:i}"
+		"ru"		"{1} занимает {3} место из {4} и имеет {2} поинтов"
+		"en"		"{1} takes {3} place out of {4} and has {2} points"
+	
+	}
+	
+	"dirtywins"
+	{
+		"ru"		"Победа"
+		"en"		"Win"
+	}
+	"wins"
+	{
+		"ru"		"Чистая победа"
+		"en"		"Legit Win"
+	}
+	"wins 3"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Победы: {1}"
+		"en"		"Wins: {1}"
+	}
+
+	"solowins"
+	{
+		"ru"		"Соло победа"
+		"en"		"Solo Win"
+	}
+	"solowins 2"
+	{
+		"#format"	"{1:s},{2:i},{3:i},{4:i},{5:s}"
+		"ru"		"{1} → Соло / {4}\n• {5}"
+		"en"		"{1} → Solo / {4}\n• {5}"
+	
+	}
+	"solowins 3"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Соло: {1}"
+		"en"		"Solo: {1}"
+	
+	}
+
+	"duowins"
+	{
+		"ru"		"Дуо победа"
+		"en"		"Duo Win"
+	}
+	"duowins 2"
+	{
+		"#format"	"{1:s},{2:i},{3:i},{4:i},{5:s}"
+		"ru"		"{1} → Дуо / {4}\n• {5}"
+		"en"		"{1} → Duo / {4}\n• {5}"
+	
+	}
+	"duowins 3"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Дуо: {1}"
+		"en"		"Duo: {1}"
+	
+	}
+
+	"triowins"
+	{
+		"ru"		"Трио победа"
+		"en"		"Trio Win"
+	}
+	"triowins 2"
+	{
+		"#format"	"{1:s},{2:i},{3:i},{4:i},{5:s}"
+		"ru"		"{1} → Трио / {4}\n• {5}"
+		"en"		"{1} → Trio / {4}\n• {5}"
+	
+	}
+	"triowins 3"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Трио: {1}"
+		"en"		"Trio: {1}"
+	
+	}
+
+	"beat 3"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Пройдено карт: {1}"
+		"en"		"Completed maps: {1}"
+	
+	}
+	"triggers 3"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Триггеры: {1}"
+		"en"		"Triggers: {1}"
+	
+	}
+
+}
